@@ -6,5 +6,9 @@ public class Main {
     System.out.println("Some second text");
     System.out.println("Some third text");
     System.out.println("just Print");
+
+    UserSecond userSecond = new UserSecond();
+    userSecond.printTextUserSecond();
+
   }
 }
