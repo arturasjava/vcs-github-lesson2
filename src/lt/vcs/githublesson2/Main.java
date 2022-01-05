@@ -10,5 +10,9 @@ public class Main {
     UserSecond userSecond = new UserSecond();
     userSecond.printTextUserSecond();
 
+    printSomething();
+  }
+  private static void  printSomething() {
+    System.out.println("Print some Text from method");
   }
 }
