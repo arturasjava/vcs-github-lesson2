@@ -5,6 +5,8 @@ public class Main {
     System.out.println("Print some text");
     System.out.println("Some second text");
     System.out.println("Some third text");
-    System.out.println("just Print");
+    System.out.println("Just Print");
+    System.out.println("Just print 2nd time");
+
   }
 }
